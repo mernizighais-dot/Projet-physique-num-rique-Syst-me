@@ -15,5 +15,5 @@ Ce dépôt contient tous les fichiers nécessaires au fonctionnement du projet d
 
 1. Clonez le projet et entrez dans le dossier :
    ```bash
-   git clone <Lien_de_votre_repo>
+   git clone https://github.com/mernizighais-dot/Projet-physique-num-rique-Syst-me.git
    cd nom_du_dossier
